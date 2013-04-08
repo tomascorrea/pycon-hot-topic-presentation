@@ -191,3 +191,4 @@ Outros links
 
     - http://friggeri.net/blog/a-genetic-approach-to-css-compression/
     - http://cldr.unicode.org/
+    - Introduction to Salt Stack: http://www.youtube.com/watch?v=q-6v275Kno4
