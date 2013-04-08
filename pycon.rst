@@ -111,3 +111,15 @@ Parcel
 Parcel é uma suite de classes e helpers desenhados para funcionarem em conjunto ao Fabric para a construção e
 deployment de aplicações web Python usando pacotes nativos. Parcel é um projeto muito novo ainda suportando
 somente pacotes Debian e CentOS e deployment com uWSGI.
+
+----
+
+Loggly
+======
+
+Loggly é um serviço de gerenciamento de logs. Com ele fica muito fácil armazenar, analisar, debugar, monitorar
+e alertar com base nos logs de sua aplicação. Além de uma interface muito rica, o Loggly também suporta uma API
+para a extração e visualização de seus logs.
+
+Uma feature interessante do Loggly é sua integração com o New Relic, que deixa muito fácil achar os logs para
+aquele pico na performance de sua aplicação.
