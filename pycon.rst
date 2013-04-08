@@ -78,13 +78,15 @@ Where Dynamic Types Meet Smart Conventions
 Solid Python Deployments for Everybody
 ======================================
 
+"Is all fun and game until you are need of put it in production." - @devops_borat
+
 #. http://ox.cx/d
 
 
 ----
 
     - FPM - Empacotador
-    - pi-tools - https://github.com/nvie/pip-tools
+    - pip-tools - https://github.com/nvie/pip-tools
     - parcel - http://parcel.readthedocs.org/en/latest/user/quickstart.html ( fabric + package)
     - fail2ban - segurança
     - icinga - monitoramento - https://www.icinga.org/
