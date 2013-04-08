@@ -1,12 +1,12 @@
 :title: Pycon
 :author: Jayson, Chacon e Tomas
-:description: Apresentção dos principais pontos observados na pycon.
+:description: Apresentção dos principais pontos observados na PyCon US 2013.
 :keywords: pycon
 :css: pycon.css
 
 
-Pycon 2013 - Santa Claro - California
-=====================================
+PyCon US 2013 - Santa Clara - California
+========================================
 
 Principais pontos
 
@@ -22,18 +22,17 @@ API de chamadas asyncronas em python
 
     import requests
 
-    @task
+    @coroutine
     def my_task(url):
         yield from requests.get(url)
-
 
 ----
 
 
-raspberry pi
+Raspberry Pi
 ============
 
-Cada participante ganhou um raspberry pi e foram dada varios workshop. Mudar o mundo atraves da educação. Levar tecnologia aos menos favorecidos.
+Cada participante ganhou um Raspberry Pi e foram dados vários workshops. Mudar o mundo através da educação. Levar tecnologia aos menos favorecidos.
 
 ----
 
@@ -43,8 +42,8 @@ The Naming of Ducks
 Where Dynamic Types Meet Smart Conventions
 ------------------------------------------
 
-Em linguages com tipagem estatica o tipo da variavel da uma ideia do que uma variavel, paramentro ou retorno de uma representa. Em linguagens com tipagem dinamica precisamos dar bons
-nomes as variaveis classes e funções. O codigo abaixo demonstra quão dificil pode ser entender um código com nomes pouco representativos.
+Em linguagens com tipagem estática o tipo da váriavel dá uma ideia do que uma variável, parâmetro ou retorno representa. Em linguagens com tipagem dinâmica precisamos dar bons
+nomes as variáveis, classes e funções. O código abaixo demonstra quão difícil pode ser entender um código com nomes pouco representativos.
 
 
 ----
